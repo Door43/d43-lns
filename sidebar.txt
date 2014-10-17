@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lns:home|Door43 (lns)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lns|d43-lns repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lns/archive/master.zip|d43-lns.zip]]
+
+**Recent Changes**
+{{changes>ns = lns}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lns|Ethnologue data]]
+
