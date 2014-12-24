@@ -1,4 +1,5 @@
-====== 1.  ======
+====== 1. ======
+
 <del>The Creation</del> Dzə (Yúv wùn à nsay)
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?direct&}}
@@ -9,19 +10,19 @@
 
 Then God said, "Let there be light!" And there was light. God saw that the light was good and called it "day." He separated it from the darkness, which he called "night." God created the light on the first day of creation.
 
-Nyùy nèn sùúy jii, “Ráne wáa dzə̀” Yí ku nèn a dzə. Wù leéy rán yee shooy, a yí dzə̀ e juŋ feyi, e yòŋ rán yee shooy ji “shùy”. Wù nèn jàvsìn rán fo ndzə ye sənér, ye wuu yoŋən ji “vitsə́ʼ”
+Nyùy<font inherit/inherit;;inherit;;inherit></font> nèn<font inherit/inherit;;inherit;;inherit></font> sùúy<font inherit/inherit;;inherit;;inherit></font> jii<font inherit/inherit;;inherit;;inherit>,</font> “Ráne<font inherit/inherit;;inherit;;inherit></font> wáa<font inherit/inherit;;inherit;;inherit></font> dzə̀”<font inherit/inherit;;inherit;;inherit></font> Yí<font inherit/inherit;;inherit;;inherit></font> ku<font inherit/inherit;;inherit;;inherit></font> nèn<font inherit/inherit;;inherit;;inherit>a</font> dzə<font inherit/inherit;;inherit;;inherit>.</font> Wù<font inherit/inherit;;inherit;;inherit></font> leéy<font inherit/inherit;;inherit;;inherit></font> rán<font inherit/inherit;;inherit;;inherit></font> yee<font inherit/inherit;;inherit;;inherit></font> shooy<font inherit/inherit;;inherit;;inherit>, a</font> yí<font inherit/inherit;;inherit;;inherit></font> dzə̀<font inherit/inherit;;inherit;;inherit>e</font> juŋ<font inherit/inherit;;inherit;;inherit></font> feyi<font inherit/inherit;;inherit;;inherit>, e</font> yòŋ<font inherit/inherit;;inherit;;inherit></font> rán<font inherit/inherit;;inherit;;inherit></font> yee<font inherit/inherit;;inherit;;inherit></font> shooy<font inherit/inherit;;inherit;;inherit></font> ji<font inherit/inherit;;inherit;;inherit></font> “shùy”<font inherit/inherit;;inherit;;inherit>.</font> Wù<font inherit/inherit;;inherit;;inherit></font> nèn<font inherit/inherit;;inherit;;inherit></font> jàvsìn<font inherit/inherit;;inherit;;inherit></font> rán<font inherit/inherit;;inherit;;inherit></font> fo<font inherit/inherit;;inherit;;inherit></font> ndzə<font inherit/inherit;;inherit;;inherit>ye</font> sənér<font inherit/inherit;;inherit;;inherit>, ye</font> wuu<font inherit/inherit;;inherit;;inherit></font> yoŋən<font inherit/inherit;;inherit;;inherit></font> ji<font inherit/inherit;;inherit;;inherit></font> “vitsə́ʼ”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?direct&}}
 
 On the second day of creation, God spoke and created the sky above the earth. He made the sky by separating the water above from the water below.
 
-Fo kishiíy ke kí meen ji baà, Nyùy súŋnen e nén bom kikum e yuv.  Wuu jàvsìn dzəv yee yuf wún a yee nsayi a dzə e kikum ki.
+Fo kishiíy ke kí meen ji baà, Nyùy súŋnen e nén bom kikum e yuv. Wuu jàvsìn dzəv yee yuf wún a yee nsayi a dzə e kikum ki.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?direct&}}
 
 On the third day, God spoke and separated the water from the dry land. He called the dry land "earth," and he called the water "seas." God saw that what he had created was good.
 
-E kishiìy ke ki meen ji taár Nyùy sùúy jii, dzevi javsin a fo kirəʼ ke yumer ki.  Wú né yoŋ kireʼ ke yumer kiy ji “nsai” e yoŋ dzəv ji rìbà “ndzèv” Nyùy leéy, e yèn a kí dzə̀ kijuŋ feyì.
+E kishiìy ke ki meen ji taár Nyùy sùúy jii, dzevi javsin a fo kirəʼ ke yumer ki. Wú né yoŋ kireʼ ke yumer kiy ji “nsai” e yoŋ dzəv ji rìbà “ndzèv” Nyùy leéy, e yèn a kí dzə̀ kijuŋ feyì.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg?direct&}}
 
@@ -33,9 +34,13 @@ Nyùy kfən sùúy jii, “Nsay fəə́r á kfəə́ se vifa ve teʼèn vi�
 
 On the fourth day of creation, God spoke and made the sun, the moon, and the stars. God made them to give light to the earth and to mark day and night, seasons and years. God saw that what he had created was good.
 
+E kishiìy ke ki meen ji kweè, Nyùy súŋén e nén fér shúy, ŋwee wun a mejiy me.  Nyùy-iì fer bey ji ví fíʼ a fo ran e kitu ke nsai, a jàvsìn shùy fo vitsə́ʼvi, a din ghán sé vinyò, a din sa vishiíy wùn à viyá vi.  Nyùy leey a vifa ve wu-uu bomèn vi dzə vijuŋ feyi.
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg?direct&}}
 
 On the fifth day, God spoke and made everything that swims in the water and all the birds. God saw that it was good, and he blessed them.
+
+E kishìiy ke kii meen ji tàn, Nyùy súŋnén e bòm nyam si dzəm see ndzəv wun a menə́n me.  Nyùy leey e yén a ki dzə kijuŋ féyi e nén səə̀vì vifá vee shooy vidzə̀m.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg?direct&}}
 
